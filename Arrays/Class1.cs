@@ -8,5 +8,9 @@ namespace Arrays
 {
     class Class1
     {
+        public Class1()
+        {
+
+        }
     }
 }
